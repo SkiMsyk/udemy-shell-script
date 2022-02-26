@@ -2,9 +2,9 @@ udemy 20時間で【Linux】マスター！！基礎、シェルスクリプト�
 
 # 環境
 
-MacOS Catalina 10.15.17
-Docker 4.2.0
-Docker-Image: centos latest (2022/2/26時点)
+- MacOS Catalina 10.15.17
+- Docker 4.2.0
+- Docker-Image: centos latest (2022/2/26時点)
 
 # セットアップ
 
